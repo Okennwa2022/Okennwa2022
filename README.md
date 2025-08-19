@@ -25,8 +25,9 @@
 [<img align="left" alt="b_okennwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="adindumichael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/b_okennwa
-[youtube]: https://www.youtube.com/c/adindumichael
-[linkedin]: https://linkedin.com/in/adindumichael
+<br/>
 
+[youtube]: https://www.youtube.com/@adindumichael  
+[twitter]: https://twitter.com/b_okennwa  
+[linkedin]: https://www.linkedin.com/in/adindumichael  
 
