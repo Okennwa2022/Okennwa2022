@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/Okennwa2022">Software Developer</a>, <a href="https://www.linkedin.com/in/adindumichael/">IT Support Specialist </a>
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/Okennwa2022">Software Developer</a>| <a href="https://www.linkedin.com/in/adindumichael/">IT Support Specialist </a>
 
 <h2>Certifications</h2>
 - [Google IT Support Professional Certificate](https://www.credly.com/badges/fa0bf93c-8a05-450a-96b6-e29e6650f401/public_url) 
