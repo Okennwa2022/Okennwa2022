@@ -15,7 +15,7 @@
   - [SWIFT STORE](https://github.com/Okennwa2022/Swift-Store.git) <b><i>(E-commerce shop)</b></i>
 - athfinding-Algorithm)
 
-<h2>📺 Cybersecurity Projects</h2>
+<h2>📺 IT Support Projects</h2>
 
 - [Active Directory Home Lab] (https://github.com/Okennwa2022/MY-MVP_PROJECT.git)
 
