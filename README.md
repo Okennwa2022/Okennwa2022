@@ -5,7 +5,7 @@
 - [TryHackMe Cybersecurity Training](https://tryhackme.com/room/offensivesecurityintrokK)  
 
 
-- [ALX Africa Full-Stack Software Engineering Program](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhCS2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4843673b2b0b98ad74ee1f0d6e02178a8ad2b76b/17-short-specializations-certificate-adindu-ogechukwu.png)  
+- [ALX Africa Full-Stack Software Engineering Program] (https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhCS2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4843673b2b0b98ad74ee1f0d6e02178a8ad2b76b/17-short-specializations-certificate-adindu-ogechukwu.png)  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
